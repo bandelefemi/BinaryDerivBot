@@ -8,7 +8,7 @@ $("#oauthaccountsign").click(function () {
 });
 
 // OAuth link
-app_id_ = 29921;
+app_id_ = 36931;
 $("#oauthaccount").click(function () {
   window.open(
     `https://oauth.deriv.app/oauth2/authorize?app_id=${app_id_}&l=en&brand=deriv&affiliate_token=FSpdOmZEx_riE1AfLJLFGGNd7ZgqdRLk`,
